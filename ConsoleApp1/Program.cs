@@ -22,9 +22,7 @@ namespace ConsoleApp1
             Console.WriteLine("... :");
             int r = (2 * (a + c)) - (3 * b);
             Console.WriteLine(r);
-            Console.WriteLine("new text");
-            Console.WriteLine("new text2");
-            Console.WriteLine("new text3");
+            Console.Write("New text");
             Console.ReadKey();
         }
     }
