@@ -24,6 +24,9 @@ namespace ConsoleApp1
             Console.WriteLine(r);
             Console.Write("New text");
             Console.Write("New text2");
+            Console.WriteLine("Enter your name:");
+            string name = Convert.ToString(Console.ReadLine());
+            Console.WriteLine(name + " " + "loh");
             Console.ReadKey();
         }
     }
