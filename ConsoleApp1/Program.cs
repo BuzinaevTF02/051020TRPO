@@ -27,6 +27,7 @@ namespace ConsoleApp1
             Console.WriteLine("Enter your name:");
             string name = Convert.ToString(Console.ReadLine());
             Console.WriteLine(name + " " + "loh");
+            Console.WriteLine(" "+"(jk lol)");
             Console.ReadKey();
         }
     }
