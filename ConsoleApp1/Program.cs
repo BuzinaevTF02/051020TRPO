@@ -28,6 +28,7 @@ namespace ConsoleApp1
             string name = Convert.ToString(Console.ReadLine());
             Console.WriteLine(name + " " + "loh");
             Console.WriteLine(" "+"(jk lol)");
+            Console.Write("have a nice day");
             Console.ReadKey();
         }
     }
